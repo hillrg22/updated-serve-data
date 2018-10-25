@@ -1,0 +1,25 @@
+{
+  "name": "updated-serve-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillrg22/updated-serve-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillrg22/updated-serve-data/issues"
+  },
+  "homepage": "https://github.com/hillrg22/updated-serve-data#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
